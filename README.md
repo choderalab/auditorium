@@ -1,8 +1,8 @@
 auditorium
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/auditorium/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/auditorium/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/auditorium/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/auditorium/branch/main)
+[![GitHub Actions Build Status](https://github.com/choderalab/auditorium/workflows/CI/badge.svg)](https://github.com/choderalab/auditorium/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/choderalab/auditorium/branch/main/graph/badge.svg)](https://codecov.io/gh/choderalab/auditorium/branch/main)
 
 
 Perform and analyze NNP simulations
